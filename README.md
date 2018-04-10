@@ -11,10 +11,10 @@
 * 2x microphones
 * Sound sensor
 
-### Setting up the Raspberry Pi
+### Setting up the Raspberry Pi (for development)
 
-1. Install Raspbian
-2. Install ROS Indigo
+1. Install Raspbian Jessie (2017-03-02)[http://downloads.raspberrypi.org/raspbian/images/]
+2. (Install ROS Indigo)[http://wiki.ros.org/ROSberryPi/Installing%20ROS%20Indigo%20on%20Raspberry%20Pi]
 3. Set up catkin workspace
 3. Install this repo in workspace
 
